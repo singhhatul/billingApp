@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\billing\\billingProject\\billingProject.csproj": {}
+    "D:\\billing\\billingApp\\billingProject.csproj": {}
   },
   "projects": {
-    "D:\\billing\\billingProject\\billingProject.csproj": {
+    "D:\\billing\\billingApp\\billingProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\billing\\billingProject\\billingProject.csproj",
+        "projectUniqueName": "D:\\billing\\billingApp\\billingProject.csproj",
         "projectName": "billingProject",
-        "projectPath": "D:\\billing\\billingProject\\billingProject.csproj",
-        "packagesPath": "C:\\Users\\SINGH\\.nuget\\packages\\",
-        "outputPath": "D:\\billing\\billingProject\\obj\\",
+        "projectPath": "D:\\billing\\billingApp\\billingProject.csproj",
+        "packagesPath": "C:\\Users\\Abhishek\\.nuget\\packages\\",
+        "outputPath": "D:\\billing\\billingApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SINGH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abhishek\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
